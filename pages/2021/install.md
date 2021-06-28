@@ -4,11 +4,20 @@ hidetitle: True
 # Software Installation for Plasma Hack Week
 
 This page contains instructions for installing software to be used
-during Plasma Hack Week.  In addition, here are installation links for
+during Plasma Hack Week.  In addition, here are installation links for:
 
 - [BOUT++](https://bout-dev.readthedocs.io/en/latest/user_docs/installing.html)
 - [Gkeyll](https://gkeyll.readthedocs.io/en/latest/install.html)
 - [OMFIT](https://omfit.io/install.html)
+
+## git and GitHub
+
+Please follow these [instructions to install
+git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on
+your operating system.
+
+We also recommend that you [create a free GitHub account](https://github.com/join)
+in order to follow along with many of the tutorials.
 
 ## Python
 
@@ -87,9 +96,24 @@ If you have a working installation of `conda` then you can install the
 
         import plasmapy
 
-### Binder link
+## Binder link
 
 If you run into any problems with installation, you can also create a
 Binder environment to access a Python environment from your web browser.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/hack-week-environment-2021/HEAD)
+
+## Integrated development environments
+
+An integrated development environment (IDE) is software used for code
+development.  IDEs typically include a source code editor as well as
+built-in tools for refactoring, version control, running tests, and 
+debugging.  
+
+* [PyCharm](https://www.jetbrains.com/pycharm/download)
+  * Community version is free and open source 
+  * To be used during git & GitHub and clean coding tutorials
+* [Visual Studio Code](https://code.visualstudio.com/)
+  * Community version is free and open source 
+* [Atom](https://atom.io/)
+  * Full version is open source
