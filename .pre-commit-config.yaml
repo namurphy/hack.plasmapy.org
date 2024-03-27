@@ -48,12 +48,6 @@ repos:
     # run this hook on `labeler.yml` (or certain other files).
     exclude: .github/labeler.yml|.pre-commit-search-and-replace.yaml
 
-- repo: https://github.com/mattlqx/pre-commit-search-and-replace
-  rev: v1.0.5
-  hooks:
-  - id: search-and-replace
-    exclude: changelog/.*|docs/changelog/.*|.sourcery.yaml|docs/_global_substitutions.py|CHANGELOG.rst
-
 - repo: https://github.com/codespell-project/codespell
   rev: v2.2.6
   hooks:
