@@ -21,29 +21,29 @@ foundational topics and progress to more advanced topics as the week
 proceeds.  The detailed schedule can be viewed [below](#the-schedule) and
 the overview is as follows:
 
-   Day 1 (foundational)
-   : The first day focuses on how to set up your system in preparation
-     for developing open-source Python software.
+Day 1 (foundational)
+: The first day focuses on how to set up your system in preparation
+for developing open-source Python software.
 
-   Day 2 (foundational)
-   : The second day is all about version control with [`git`](https://git-scm.com/) and
-     [GitHub](https://github.com/about).  These are the two primary
-     tools used to collaboratively develop open-source software.
+Day 2 (foundational)
+: The second day is all about version control with [`git`](https://git-scm.com/) and
+[GitHub](https://github.com/about).  These are the two primary
+tools used to collaboratively develop open-source software.
 
-   Day 3 (intermediate)
-   : In the third day we start developing our own open-source package,
-     the [`hack`](https://github.com/PlasmaPy/hack-week) package.  To
-     start the package we'll develop a plasma formulary using the
-     `plasmapy.formulary` 
-     ([pkg](https://github.com/PlasmaPy/PlasmaPy/tree/main/plasmapy/formulary) |
-     [docs](https://docs.plasmapy.org/en/latest/formulary/index.html))
-     as our guide.
+Day 3 (intermediate)
+: In the third day we start developing our own open-source package,
+the [`hack`](https://github.com/PlasmaPy/hack-week) package.  To
+start the package we'll develop a plasma formulary using the
+`plasmapy.formulary`
+([pkg](https://github.com/PlasmaPy/PlasmaPy/tree/main/plasmapy/formulary) |
+[docs](https://docs.plasmapy.org/en/latest/formulary/index.html))
+as our guide.
 
-   Day 4 & 5 (intermediate/advanced)
-   : The last two days will focus on developing functionality participants
-     are interested in, which can be suggested by any participant and/or
-     select from pre-outlined 
-     [project issues](https://github.com/PlasmaPy/hack-week/issues?q=is%3Aissue+is%3Aopen+label%3A2022).
+Day 4 & 5 (intermediate/advanced)
+: The last two days will focus on developing functionality participants
+are interested in, which can be suggested by any participant and/or
+select from pre-outlined
+[project issues](https://github.com/PlasmaPy/hack-week/issues?q=is%3Aissue+is%3Aopen+label%3A2022).
 
 Since this year's event is focused on hacking and learning by doing, it
 is in its nature free-form.  So, feel free to bring up any topic you are
@@ -58,7 +58,7 @@ discuss to explore your ideas.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPRayajKEzzmfIi8B9hpvUQ3SJLWTXJ3ktr3XlW6CubXOgoOlQK66qYsTzMHxCG1wZW-iySIs_IkIM/pubhtml?gid=829020640&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 -->
 
-<iframe 
+<iframe
    name="2021HW_schedule"
    style="width: 100%; height: 700px; overflow: hidden; margin-bottom: 18px"
    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPRayajKEzzmfIi8B9hpvUQ3SJLWTXJ3ktr3XlW6CubXOgoOlQK66qYsTzMHxCG1wZW-iySIs_IkIM/pubhtml?gid=829020640&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=A1:H32">

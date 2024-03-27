@@ -2,9 +2,10 @@ title: About 2022 Hack Week
 hidetitle: True
 
 # Plasma Hack Week 2022
+
 **Dates:** July 11 – 15, 2022
 
-<div class="plasmapy-note" 
+<div class="plasmapy-note"
      style="max-width: 300px;
             margin-top: 24px;
             border-style: solid;
@@ -51,15 +52,15 @@ advanced topic throughout the week.  By the end of the week we should have our
 own plasma formulary much like the
 [`plasmapy.formulary`](https://docs.plasmapy.org/en/latest/formulary/index.html).
 
-For information on registering please visit our 
+For information on registering please visit our
 [registration page](../registration).
 
-For any additional questions please reach out to us on our 
+For any additional questions please reach out to us on our
 [Discord channel](https://discord.gg/HdsZkp9M35).
 
 <!--
 In the week leading up to the **Plasma Hack Week**, a few more fundamentally
-focused tutorials will be presented on topics like the basics of Python, using 
+focused tutorials will be presented on topics like the basics of Python, using
 version control, contributing to open-source projects, etc.
 
 For information on the schedule and pre-week tutorials please visit our

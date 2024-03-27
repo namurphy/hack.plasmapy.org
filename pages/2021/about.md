@@ -3,7 +3,7 @@ hidetitle: True
 
 # Plasma Hack Week 2021
 
-<div class="plasmapy-note" 
+<div class="plasmapy-note"
      style="max-width: 300px;
             margin-top: 24px;
             border-style: solid;
@@ -26,8 +26,8 @@ hidetitle: True
     </p>
 </div>
 
-Welcome to the inaugural **Plasma Hack Week**!!  Our first event will be held 
-remotely from June 28 - July 2, 2021.  The event is **free** and sets out to 
+Welcome to the inaugural **Plasma Hack Week**!!  Our first event will be held
+remotely from June 28 - July 2, 2021.  The event is **free** and sets out to
 increase awareness of open-source software for the Plasma Community:
 the benefits it can have on the community, what is currently available, and
 how to foster community development of open-source software.  As such, topics will
@@ -37,14 +37,14 @@ structured learning activities, such as guided tutorials, and unstructured proje
 time for collaborative learning.
 
 In the week leading up to the **Plasma Hack Week**, a few more fundamentally
-focused tutorials will be presented on topics like the basics of Python, using 
+focused tutorials will be presented on topics like the basics of Python, using
 version control, contributing to open-source projects, etc.
 
-For information on registering please visit our 
+For information on registering please visit our
 [registration page](../registration).
 
 For information on the schedule and pre-week tutorials please visit our
 [scheduling page](../schedule).
 
-For any additional questions please reach out to us on our 
+For any additional questions please reach out to us on our
 [Discord channel](https://discord.gg/HdsZkp9M35).

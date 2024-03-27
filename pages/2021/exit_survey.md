@@ -11,7 +11,7 @@ better for next year!
 
 <div style="width: 100%; margin: 24px">
     <a href=https://docs.google.com/forms/d/e/1FAIpQLSeKNwXWmi0A-RtaYD6RIN1Q2sjFIPKX4Plzy72IPBI0ex2wyg/viewform?usp=sf_link
-            class="feature-card feature-link btn-plasmapy-bluegreen" 
+            class="feature-card feature-link btn-plasmapy-bluegreen"
             style="width: 200px">
         <div>Exit Survey</div>
     </a>

@@ -5,7 +5,7 @@ hidetitle: True
 
 <div style="width: 100%; margin: 24px">
     <a href=https://docs.google.com/forms/d/e/1FAIpQLSfRURsxZ3geqs1-1f3ZMUrKtP42uIyDLD0ewfbHBGkVhPgTxQ/viewform?usp=sf_link
-            class="feature-card feature-link btn-plasmapy-bluegreen" 
+            class="feature-card feature-link btn-plasmapy-bluegreen"
             style="width: 200px">
         <div>Registration Form</div>
     </a>

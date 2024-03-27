@@ -2,12 +2,13 @@ title: Plasma Hack Week
 hidetitle: True
 
 <!-- Feature Cards -->
+
 <div class="feature-row" style="margin-bottom: 16px">
     <!-- Feature 1 -->
     <div class="feature-column">
         <a class="feature-link" href="https://discord.gg/HdsZkp9M35">
-        <div class="feature-card" 
-              style="background: linear-gradient(to left, 
+        <div class="feature-card"
+              style="background: linear-gradient(to left,
                                  var(--plasmapy-darkblue) 0%,
                                  var(--plasmapy-light-red) 200%);">
             <div>
@@ -26,7 +27,7 @@ hidetitle: True
     <!-- Feature 2 -->
     <div class="feature-column">
         <a class="feature-link" href="2022/about">
-        <div class="feature-card" 
+        <div class="feature-card"
               style="background-image: none;
                      background-color: var(--plasmapy-darkblue)">
             <div>
@@ -41,8 +42,8 @@ hidetitle: True
     <!-- Feature 3 -->
     <div class="feature-column">
         <a class="feature-link" href="2022/exit_survey">
-        <div class="feature-card" 
-              style="background: linear-gradient(to right, 
+        <div class="feature-card"
+              style="background: linear-gradient(to right,
                                  var(--plasmapy-darkblue) 0%,
                                  var(--plasmapy-bluegreen) 200%);">
             <div>
@@ -65,20 +66,20 @@ released.
 
 The term hacking has a broad range of use in modern day slang.  Hacking
 during the **Plasma Hack Week** event is seen as a collaborative
-coding session among novices, experts, and like-minded learners to work 
-on projects and learn from each other.  Hacking is a learn-by-doing 
+coding session among novices, experts, and like-minded learners to work
+on projects and learn from each other.  Hacking is a learn-by-doing
 activity, one of the best ways to further our knowledge.
 
 **A [hack week](https://doi.org/10.1073/pnas.1717196115) is a combination
-of a hackathon (a marathon of hacking) and a summer school.**  While 
+of a hackathon (a marathon of hacking) and a summer school.**  While
 hackathons have traditionally prioritized collaborative code development
-activities, a hack week includes a teaching component.  Hack weeks 
+activities, a hack week includes a teaching component.  Hack weeks
 typically have both structured learning activities (such as tutorials) as
 well as unstructured project time. A hack week is a chance to:
- 
+
 - Learn how to contribute to an open source project;
 - Learn new software development skills with peers;
-- Network with fellow plasma students and researchers who are engaging 
+- Network with fellow plasma students and researchers who are engaging
   in software development;
 - Meet fellow students and scientists who are engaging in programming;
 - Collaborate on adding a new feature to an existing software project;
@@ -94,7 +95,7 @@ join the [Plasma Coders](https://discord.gg/HdsZkp9M35) group on Discord.
 
 ## Registration
 
-For information about registering please check out our 
+For information about registering please check out our
 [2022 Hack Week registration page](./2022/registration).
 
 <!--
@@ -106,7 +107,7 @@ would like to install any of the software needed for the Hack Week.
 Alternatively, clicking on the following binder link will initialize a
 Python environment that can be run from your browser.  This environment
 will have most of the Python packages needed for the week pre-installed,
-along with `git`. 
+along with `git`.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlasmaPy/hack-week/HEAD)
 -->
@@ -114,7 +115,7 @@ along with `git`.
 ## Resources
 
 We have compiled [resources](./resources) that are likely to be useful
-for Hack Week participants.  Topics include Python, git/GitHub, and 
+for Hack Week participants.  Topics include Python, git/GitHub, and
 research software engineering best practices.
 
 ## Code of conduct
@@ -125,8 +126,8 @@ Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 <!--
 ## Python tutorials
 
-We held two [tutorials to introduce Python](./2022/python) to 
-participants who are new to Python.  These tutorials were held 
+We held two [tutorials to introduce Python](./2022/python) to
+participants who are new to Python.  These tutorials were held
 the week before the Hack Week on Monday, June 21 and Tuesday, June 22 at
 15 UTC (5 pm CEST / 11 am EDT / 8 am PDT).
 -->
@@ -136,6 +137,6 @@ the week before the Hack Week on Monday, June 21 and Tuesday, June 22 at
 This website is made available under the [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0)
 license.  Portions of this website have been adapted from
-[PlasmaPy's main website](https://www.plasmapy.org/) and the 
+[PlasmaPy's main website](https://www.plasmapy.org/) and the
 [HackWeek Toolkit](https://uwescience.github.io/HackWeek-Toolkit/#)
 under the terms of the CC BY 4.0 license.
