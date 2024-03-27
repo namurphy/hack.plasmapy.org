@@ -52,7 +52,7 @@ repos:
     args: [--write-changes]
     additional_dependencies:
     - tomli
-    exclude: shortcodes|plugins
+    exclude: shortcodes|plugins|CODE_OF_CONDUCT.rst
 
 - repo: https://github.com/executablebooks/mdformat
   rev: 0.7.17
