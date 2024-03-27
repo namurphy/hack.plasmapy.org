@@ -14,7 +14,7 @@ jobs:
 
     env:
       DRY_RUN: ${{ github.event_name == 'pull_request' }}
-      DEPLOY: ""
+      DEPLOY: ''
 
     steps:
     - name: Checkout code
