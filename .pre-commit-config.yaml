@@ -56,6 +56,7 @@ repos:
     args: [--write-changes]
     additional_dependencies:
     - tomli
+    exclude: shortcodes|plugins
 
 - repo: https://github.com/executablebooks/mdformat
   rev: 0.7.17
