@@ -104,14 +104,14 @@ member of the Coordinating Committee. All complaints will be reviewed
 and investigated and will result in a response that is deemed necessary
 and appropriate to the circumstances. The project team is obligated to
 maintain confidentiality with regard to the reporter of an incident.
-Project team members should recuse themselves from enforcement of the
+Project team members should recurse themselves from enforcement of the
 code of conduct for a given incident if they have an actual or apparent
 conflict of interest.  Further details of specific enforcement policies
 may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in
 good faith may face temporary or permanent repercussions as determined
-by other members of the project’s leadership.
+by other members of the project's leadership.
 
 Attribution
 -----------
