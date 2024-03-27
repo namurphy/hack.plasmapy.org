@@ -40,70 +40,6 @@ YOUTUBE_CHANNEL = "https://www.youtube.com/channel/UCSH6qzslhqIZKTAJmHPxIxw"
 CODE_OF_CONDUCT = "https://www.contributor-covenant.org/version/2/0/code_of_conduct/"
 LICENSE = "https://creativecommons.org/licenses/by/4.0/"
 
-# Nikola is multilingual!
-#
-# Currently supported languages are:
-#
-# en        English
-# af        Afrikaans
-# ar        Arabic
-# az        Azerbaijani
-# bg        Bulgarian
-# bs        Bosnian
-# ca        Catalan
-# cs        Czech [ALTERNATIVELY cz]
-# da        Danish
-# de        German
-# el        Greek [NOT gr]
-# eo        Esperanto
-# es        Spanish
-# et        Estonian
-# eu        Basque
-# fa        Persian
-# fi        Finnish
-# fr        French
-# fur       Friulian
-# gl        Galician
-# he        Hebrew
-# hi        Hindi
-# hr        Croatian
-# hu        Hungarian
-# ia        Interlingua
-# id        Indonesian
-# it        Italian
-# ja        Japanese [NOT jp]
-# ko        Korean
-# lt        Lithuanian
-# ml        Malayalam
-# nb        Norwegian (Bokmål)
-# nl        Dutch
-# pa        Punjabi
-# pl        Polish
-# pt        Portuguese
-# pt_br     Portuguese (Brazil)
-# ru        Russian
-# sk        Slovak
-# sl        Slovene
-# sq        Albanian
-# sr        Serbian (Cyrillic)
-# sr_latin  Serbian (Latin)
-# sv        Swedish
-# te        Telugu
-# th        Thai
-# tr        Turkish [NOT tr_TR]
-# uk        Ukrainian
-# ur        Urdu
-# vi        Vietnamese
-# zh_cn     Chinese (Simplified)
-# zh_tw     Chinese (Traditional)
-#
-# If you want to use Nikola with a non-supported language you have to provide
-# a module containing the necessary translations
-# (cf. the modules at nikola/data/themes/base/messages/).
-# If a specific post is not translated to a language, then the version
-# in the default language will be shown instead.
-
-# What is the default language?
 DEFAULT_LANG = "en"
 
 # What other languages do you have?
@@ -146,9 +82,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          may present issues if the menu is too large.
 #          (in Bootstrap, the navbar can grow too large and cover contents.)
 # WARNING: If you link to directories, make sure to follow
-#          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
+#          ``STRIP_INDEXES``.  If it's set to ``True``, end your links
 #          with a ``/``, otherwise end them with ``/index.html`` — or
-#          else they won’t be highlighted when active.
+#          else they won't be highlighted when active.
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
@@ -308,7 +244,7 @@ TIMEZONE = "UTC+2"
 #
 # 0 = using DATE_FORMAT and TIMEZONE
 # 1 = using JS_DATE_FORMAT and local user time (via moment.js)
-# 2 = using a string like “2 days ago”
+# 2 = using a string like "2 days ago"
 #
 # Your theme must support it, Bootstrap already does.
 # DATE_FANCINESS = 0
@@ -421,7 +357,7 @@ SHOW_BLOG_TITLE = False
 
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the tag list or index page’s title.
+# and displayed underneath the tag list or index page's title.
 # TAG_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging.",
@@ -494,7 +430,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the category list or index page’s title.
+# and displayed underneath the category list or index page's title.
 # CATEGORY_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "blogging": "Meta-blog posts about blogging.",
@@ -573,7 +509,7 @@ HIDDEN_CATEGORIES = []
 
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
-# and displayed underneath the author list or index page’s title.
+# and displayed underneath the author list or index page's title.
 # AUTHOR_PAGES_DESCRIPTIONS = {
 #    DEFAULT_LANG: {
 #        "Juanjo Conti": "Python coder and writer.",
@@ -592,7 +528,7 @@ HIDDEN_AUTHORS = ['Guest']
 # (translatable)
 INDEX_PATH = "news/"
 
-# Optional HTML that displayed on “main” blog index.html files.
+# Optional HTML that displayed on "main" blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
     DEFAULT_LANG: ''
@@ -727,7 +663,7 @@ GITHUB_COMMIT_SOURCE = False
 # argument.
 #
 # By default, only .php files uses filters to inject PHP into
-# Nikola’s templates. All other filters must be enabled through FILTERS.
+# Nikola's templates. All other filters must be enabled through FILTERS.
 #
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
@@ -851,8 +787,8 @@ GITHUB_COMMIT_SOURCE = False
 #
 #   .. image:: /images/tesla.jpg
 #
-# See the Nikola Handbook for details (in the “Embedding Images” and
-# “Thumbnails” sections)
+# See the Nikola Handbook for details (in the "Embedding Images" and
+# "Thumbnails" sections)
 
 # Images will be scaled down according to IMAGE_THUMBNAIL_SIZE and MAX_IMAGE_SIZE
 # options, but will have to be referenced manually to be visible on the site
@@ -944,10 +880,10 @@ FAVICONS = (
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
 # {link}                        A link to the full post page.
-# {read_more}                   The string “Read more” in the current language.
+# {read_more}                   The string "Read more" in the current language.
 # {reading_time}                An estimate of how long it will take to read the post.
 # {remaining_reading_time}      An estimate of how long it will take to read the post, sans the teaser.
-# {min_remaining_read}          The string “{remaining_reading_time} min remaining to read” in the current language.
+# {min_remaining_read}          The string "{remaining_reading_time} min remaining to read" in the current language.
 # {paragraph_count}             The amount of paragraphs in the post.
 # {remaining_paragraph_count}   The amount of paragraphs in the post, sans the teaser.
 # {post_title}                  The title of the post.
@@ -1397,7 +1333,7 @@ EXTRA_HEAD_DATA = r"""
 # (defaults to 1.)
 # DEMOTE_HEADERS = 1
 
-# If you don’t like slugified file names ([a-z0-9] and a literal dash),
+# If you don't like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.
 # USE WITH CARE!  This is also not guaranteed to be perfect, and may
 # sometimes crash Nikola, your web server, or eat your cat.
